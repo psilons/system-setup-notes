@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+    <style>
+	    html, body{
+  background: #c4c9e9
+}
+	</style>
+</HEAD>
+<BODY>
+    <canvas id="can" width="600" height="600" />
+    	<script>
+var canvas = document.getElementById("can");
+var ctx = canvas.getContext("2d");
+var lastend = 0;
+var data = [45,45,45,45,45,45,45,45];
+var myTotal = 0;
+var myColor = ['#FFFF00', '#00FF00','#00FFFF', '#000000', '#0000FF', '#FF00FF', '#FF0000', '#FFFFFF'];
+var labels = ['110 兌 澤', '010 坎 水', '011 巽 風', 
+              '000 坤 地', '001 艮 山', '101 離 火', '100 震 雷', '111 乾 天'];
+
+for(var e = 0; e < data.length; e++)
+{
+  myTotal += data[e];
+}
+
+// make the chart 10 px smaller to fit on canvas
+var off = 10
+var w = (canvas.width - off) / 2
+var h = (canvas.height - off) / 2
+for (var i = 0; i < data.length; i++) {
+  ctx.fillStyle = myColor[i];
+  ctx.strokeStyle ='purple';
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(w,h);
+  var len =  (data[i]/myTotal) * 2 * Math.PI
+  var r = h - off / 2
+  ctx.arc(w , h, r, lastend,lastend + len,false);
+  ctx.lineTo(w,h);
+  ctx.fill();
+  ctx.stroke();
+  ctx.fillStyle ='purple';
+  ctx.font = "20px Arial";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  var mid = lastend + len / 2
+  ctx.fillText(labels[i],w + Math.cos(mid) * (r/1.5) , h + Math.sin(mid) * (r/1.5));
+  lastend += Math.PI*2*(data[i]/myTotal);
+}
+	</script>
+	
+	
+</BODY>
+</HTML>

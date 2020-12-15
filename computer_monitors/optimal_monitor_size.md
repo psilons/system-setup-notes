@@ -39,13 +39,14 @@ these are the popular monitors:
 | 42 inches    | 36.6 inches | 20.6 inches | 2.2879       |
 
 There are several options:
-- 1 42-inch + 1 27-inch vertical(optinally + 1 27-inch vertical for symmetry 
+- 1 42-inch + 1 27-inch vertical(optionally + 1 27-inch vertical for symmetry 
   and use it as auxiliary): Since the height center is >= 10 inches, this works
   well for taller folks (maybe > 6 feet?)
 - 1 32-inch + 2 24-inch vertical: The 32-inch is a little short vertically, but
   can work well since the height can handle legal paper height (14 inches).
 - 1 32-inch + 2 27-inch vertical: The 2 27-inch monitors can handle more long
   content, such as programming code.
+- 2 32-inch: The width is a little over and the height is a little under.
 
 With 3 monitors, we may turn side monitors a little to accommodate the total 
 width.
@@ -72,6 +73,9 @@ as possible to avoid visual jumps.
 So seems that we have 2 possibilities, as indicated in the grouping column.
 Option 2 is more comfort since the font size is larger, but it depends on 
 individuals.
+
+These DPIs are calculated based the width and height columns. Manufacturers
+may adjust it slightly to the standard 96 DPI.
 
 The above sizes are visible sizes. Count in frames, here are some samples from
 ViewSonic sizes:
@@ -127,4 +131,5 @@ More explanation is on [wiki](https://en.wikipedia.org/wiki/Gamut) and
 [other sources](https://www.color-management-guide.com/luminosity-contrast-hdr-gamut-uniformity-monitor.html).
 
 
+Source: https://www.pcmag.com/picks/the-best-gaming-monitors?test_uuid=001OQhoHLBxsrrrMgWU3gQF&test_variant=b
 

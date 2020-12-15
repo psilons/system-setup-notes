@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+    <style>
+	    html, body{
+  background: #c4c9e9
+}
+	</style>
+</HEAD>
+<BODY>
+    <canvas id="can" width="800" height="800" />
+    	<script>
+var canvas = document.getElementById("can");
+var ctx = canvas.getContext("2d");
+var lastend = 0;
+var data = [22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5,22.5];
+var myTotal = 0;
+var myColor = ['#FFFFFF', '#80FF80', '#00FF00', '#00FF80', 
+               '#00FFFF', '#0080FF', '#0000FF', '#000080',
+               '#000000', '#800080', '#FF00FF', '#FF0080',
+			   '#FF0000', '#FF8000', '#FFFF00', '#FFFF80'];
+var labels = ['111 乾 天', 'LightGreen', '010 坎 水', 'BlueGreen', 
+              '011 巽 風', 'LightBlue', '001 艮 山', 'DarkBlue',
+              '000 坤 地', 'Purple', '101 離 火', 'LightRed',
+			  '100 震 雷', 'Orange', '110 兌 澤', 'LightYellow'];
+
+for(var e = 0; e < data.length; e++)
+{
+  myTotal += data[e];
+}
+
+// make the chart 10 px smaller to fit on canvas
+var off = 10
+var w = (canvas.width - off) / 2
+var h = (canvas.height - off) / 2
+for (var i = 0; i < data.length; i++) {
+  ctx.fillStyle = myColor[i];
+  ctx.strokeStyle ='white';
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(w,h);
+  var len =  (data[i]/myTotal) * 2 * Math.PI
+  var r = h - off / 2
+  ctx.arc(w , h, r, lastend,lastend + len,false);
+  ctx.lineTo(w,h);
+  ctx.fill();
+  ctx.stroke();
+  ctx.fillStyle = i<data.length/2 ? myColor[i+data.length/2] : myColor[i-data.length/2];
+  ctx.font = "18px Arial";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  var mid = lastend + len / 2
+  ctx.fillText(myColor[i],w + Math.cos(mid) * (r/1.2), h + Math.sin(mid) * (r/1.2)+ 20);
+  ctx.fillText(labels[i],w + Math.cos(mid) * (r/1.2) , h + Math.sin(mid) * (r/1.2));
+  lastend += Math.PI*2*(data[i]/myTotal);
+}
+	</script>
+	
+	
+</BODY>
+</HTML>
