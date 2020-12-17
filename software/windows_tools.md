@@ -29,7 +29,7 @@ windows shell integration.
   [cpu-z](https://www.cpuid.com/softwares/cpu-z.html),
   though windows has System Information(search msinfo32).
   System Model in msinfo32 shows the model number and System Manufacturer
-  shows the vendor.
+  shows the vendor. For example, model is XPS 8920 and vendor is DELL.
 - Antivirus: [AVG Antivirus](https://www.avg.com/en-us/free-antivirus-download)
   ![free](free.png)
 - Zip: [7-Zip](https://www.7-zip.org/)

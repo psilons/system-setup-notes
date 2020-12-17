@@ -96,5 +96,14 @@ There are several Linux tools:
 - Postscript: [Viewer](http://pages.cs.wisc.edu/~ghost/index.html)
 - Tex: 
   IntelliJ has a plugin [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA).
-  [Lyx](https://www.lyx.org/) is simple. 
-  [Others](https://mirocupak.com/best-development-setup-for-latex/) may prefer [TexStudio](https://www.texstudio.org/).
+  [LEd](https://www.latexeditor.org/) is simple.
+  [Others](https://mirocupak.com/best-development-setup-for-latex/) may prefer 
+  [TexStudio](https://www.texstudio.org/), [Lyx](https://www.lyx.org/) 
+  or [TexMaker](https://www.xm1math.net/texmaker/).
+
+
+## Other tools
+- [JSONedit](http://tomeko.net/software/JSONedit/) is a small convenient JSON 
+  editor, tree based.
+- [Softerra LDAP browser](https://www.ldapadministrator.com/)
+  

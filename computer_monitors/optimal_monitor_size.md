@@ -58,21 +58,20 @@ as possible to avoid visual jumps.
 
 | Monitor Size | Width       | Height      | Resolution   | DPI | Grouping |
 |--------------|-------------|-------------|--------------|-----|----------| 
-| 24 inches    | 20.9 inches | 11.8 inches | 1920 X 1080  |  92 | 2        |
+| 24 inches    | 20.9 inches | 11.8 inches | 1920 X 1080  |  92 | 3        |
 | 27 inches    | 23.5 inches | 13.2 inches | 2560 X 1440  | 109 | 1        |
 |              |             |             | 2048 X 1152  |  87 | 2        |
 |              |             |             | 1920 X 1080  |  82 |          |
 | 32 inches    | 27.9 inches | 15.7 inches | 3840 X 2160  | 138 |          |
-|              |             |             | 2560 X 1440  |  92 | 2        |
+|              |             |             | 2560 X 1440  |  92 | 3        |
 |              |             |             | 2048 X 1152  |  73 |          |
 | 42 inches    | 36.6 inches | 20.6 inches | 3840 X 2160  | 105 | 1        |
 |              |             |             | 3200 X 1800  |  87 | 2        |
 |              |             |             | 2880 X 1620  |  79 |          |
 |              |             |             | 2560 X 1440  |  70 |          |
 
-So seems that we have 2 possibilities, as indicated in the grouping column.
-Option 2 is more comfort since the font size is larger, but it depends on 
-individuals.
+If we group by DPI column, we find 3 distinct groups. We should take width
+and height into consideration too.
 
 These DPIs are calculated based the width and height columns. Manufacturers
 may adjust it slightly to the standard 96 DPI.
@@ -111,12 +110,36 @@ desk 72 X 72 X 29.25. Price is $715
 has a long desk 72 X 72 X 30, with extra storage. Price is $1600, expensive.
 
 [btod.com](https://www.btod.com/RA-246060NHRT.php) has the most versatile
-options. It's adjustable in height and so expensive, $2100. This is the best
+options. It's adjustable in height and so expensive, $2200. This is the best
 option if budget permitted.
 
 [nationalbusinessfurniture.com](https://www.nationalbusinessfurniture.com/desks/l-desks/carbon-j-desk-with-3-drawer-pedestal-and-right-return-58145)
 has 72 X 48 X 29 with the price $819. However, the desk back wall interferes with power
 plugs.
+
+## Suggestion
+Without constraint, the best suggestion is 1 42-inch + 2 27-inch and a larger turned desk (32 X 64)
+because:
+- Size: vertical 27-inch has almost same height as 42-inch. Total horizontal size is about 58 inches.
+  It's a little wider than 52 inches. So 3 feet away from the monitor would compensate this(52 inches
+  is based on 30 inches view distance).
+- DPI: dpi is close in first 2 highest resolutions, so there is less mouse jump when moving between
+  screens.
+- The boundary view area is not in the direct eyesight, but it can be used to save later-view windows.  
+
+Here is the layout for corner setup to save space.
+
+![42 inches](corner.png)
+
+Or use 2 60 X 30 desks, one for monitors and one for keyboard and mouse. In this case, we use more
+space but has more leeway.
+
+With more monitors, safety concern is on the rise, check 
+[here](https://emfacademy.com/computer-monitor-radiation-everything-you-need-to-know/)
+or [here](https://smallbusiness.chron.com/safety-issues-radiation-computer-monitor-66298.html).
+I would keep ~ 30 inches away from monitors.
+
+There are more heat as well.
 
 ## Color Calibration
 
@@ -130,6 +153,8 @@ Here is the [color space](https://en.wikipedia.org/wiki/Wide-gamut_RGB_color_spa
 More explanation is on [wiki](https://en.wikipedia.org/wiki/Gamut) and 
 [other sources](https://www.color-management-guide.com/luminosity-contrast-hdr-gamut-uniformity-monitor.html).
 
+I run into a bad video cable with fuzzy screen. In general, for trouble shooting, we need to go through
+video card, cable, and monitor. Check all hardware and software settings.
 
 Source: https://www.pcmag.com/picks/the-best-gaming-monitors?test_uuid=001OQhoHLBxsrrrMgWU3gQF&test_variant=b
 
