@@ -15,17 +15,22 @@ should give you some ideas.
 
 - Fonts: [Google fonts](https://fonts.google.com/),
   [programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/),
-  [2020](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a)
+  [others](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a)
   
 
 ## Database GUI clients
 [DataStrip](https://www.jetbrains.com/datagrip/) is included in the 
 Jetbrains Toolbox.  
-[DBeaver Community](https://dbeaver.io/) is a free and goo tool.  
+
+[DBeaver Community](https://dbeaver.io/) is a free and good tool.  
+
+[This review](https://codingsight.com/10-best-mysql-gui-tools/)
+has other tools (not restricted to MySQL), such as Aqua Data Studio and Navicat
+ 
 JDBC paves the database vendor difference, so these GUIs can deal with many 
 database vendors. For vendor specific, such as stored procedures, we have to
 use vendor tools, such as Oracle Toad and MS SQL Management studio. Bulk
-import/export tools are almost always specific, such as bcp.
+import/export tools are almost always specific, such as BCP, COPY, etc.
 
 ## Command Terminals
 [Color Terminals](colors/color_wheel.md) setups terminals.  

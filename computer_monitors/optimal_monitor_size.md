@@ -144,7 +144,7 @@ There are more heat as well.
 ## Color Calibration
 
 Windows has a [color calibration](https://www.cnet.com/how-to/how-to-calibrate-your-monitor/) 
-tool. There are tools from vendors as well, such as [from ViewSonic](https://www.viewsonic.com/us/cs-xri1.html).
+tool. There are tools from vendors as well, such as from [ViewSonic](https://www.viewsonic.com/us/cs-xri1.html).
 
 Here is the [color space](https://en.wikipedia.org/wiki/Wide-gamut_RGB_color_space)
 

@@ -103,3 +103,5 @@ Finally, this is the full list of shades:
 ![Purple](shades_purple.png)
 
 ![Pink](shades_pink.png)
+
+These are generated from HTML/javascript in this folder.
