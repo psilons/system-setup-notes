@@ -77,7 +77,7 @@ These DPIs are calculated based the width and height columns. Manufacturers
 may adjust it slightly to the standard 96 DPI.
 
 The above sizes are visible sizes. Count in frames, here are some samples from
-ViewSonic sizes:
+ViewSonic sizes on amazon:
 
 ![24_inches](24_inches.png)
 
