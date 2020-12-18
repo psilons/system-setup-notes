@@ -92,12 +92,12 @@ ViewSonic sizes on amazon:
 Another consideration is where we put these monitors. One solution is the 
 corner desk.
 
-![desk](corner_deskpng.png)
+![desk](corner_desk.png)
 
-The desk is 30 X 70 X 70 X 30. The minimal space is 48 X 30, for side monitors
-and the distance between these monitors and viewers. The curved extra gives 
+The minimal space is 48 X 30, for side monitors
+and the distance between these monitors and viewers. The curved desk extra gives 
 more room for keyboards and elbows. We might need more room for others, such
-as notes, phones/pads, etc. 65 X 30 is comfort in general.
+as notes, phones/pads, etc. 65 X 30 is more comfort in general.
 
 At the corner, the main monitor is about 25 - 30 inches away from users. Side
 monitors are ~ 25 inches away(desk width is 30 inches).
