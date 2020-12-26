@@ -12,7 +12,8 @@ $1500. It should have a 5 years span.
 [Programming Tools](software/programming_tools.md) has a list of programming tools.
 
 # Document Writers
-Markdown to replace MS Words.
+Markdown to replace MS Words. [Pandoc](https://pandoc.org/) is a tool to convert word to md.
+[This](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/) is a tool to convert excel.
 
 overlead.com for Latex, and integrated with github.
 
