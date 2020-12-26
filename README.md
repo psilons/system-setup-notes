@@ -10,3 +10,8 @@ $1500. It should have a 5 years span.
 [Windows Tools](software/windows_tools.md) has a list of common tools.
 
 [Programming Tools](software/programming_tools.md) has a list of programming tools.
+
+# Document Writers
+Markdown to replace MS Words.
+
+overlead.com for Latex, and integrated with github.
