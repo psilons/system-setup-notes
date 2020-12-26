@@ -15,3 +15,5 @@ $1500. It should have a 5 years span.
 Markdown to replace MS Words.
 
 overlead.com for Latex, and integrated with github.
+
+Search has a delayed indices, need to wait for some time.
