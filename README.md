@@ -6,6 +6,7 @@ $1500. It should have a 5 years span.
 
 [Here](computer_monitors/optimal_monitor_size.md) is the monitor consideration.
 
+# Windows Tools
 [Windows Tools](software/windows_tools.md) has a list of common tools.
 
 [Programming Tools](software/programming_tools.md) has a list of programming tools.
