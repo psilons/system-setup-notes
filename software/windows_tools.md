@@ -26,7 +26,8 @@ windows shell integration.
 
 ## Basic Utilities
 - System monitor: [HWiNFO](https://www.hwinfo.com/download/),
-  [cpu-z](https://www.cpuid.com/softwares/cpu-z.html),
+  [cpu-z](https://www.cpuid.com/softwares/cpu-z.html), both 
+  ![free](free.png) ![portable](portable.png)
   though windows has System Information(search msinfo32).
   System Model in msinfo32 shows the model number and System Manufacturer
   shows the vendor. For example, model is XPS 8920 and vendor is DELL.
@@ -74,6 +75,27 @@ windows shell integration.
   ![free](free.png) ![portable](portable.png)
 - Video players: [VLC](https://www.videolan.org/) and 
   [KMPlayer](http://en.kmplayer.com/). ![free](free.png)
+- Text-To-Speech:
+  [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
+  ![free](free.png) ![portable](portable.png)  
+  Other online tools: 
+  [Natural Readers](https://www.naturalreaders.com/online/) is a simple text speaker.
+  [Amazon Polly](https://aws.amazon.com/polly/) is not free. See more 
+  [here](https://listoffreeware.com/list-of-best-free-text-to-speech-software/).
+- Speech-To-Text:
+  Windows 10 has built-in, search speech recognition in control panel.
+  [SpeechNotes](https://speechnotes.co/) is an online tool(follow below google
+  docs instruction to turn on mic).
+  [Amazon Transcribe](https://aws.amazon.com/transcribe/) is not free. There are mobile
+  apps for this too. See more [here](https://zapier.com/blog/best-text-dictation-software/).
+  
+  [Google Docs](https://docs.google.com/document) has voice typing with Chrome
+    - go to settings (upper right corner 3 dots).
+    - click privacy and security on the right, then site settings on the right.
+    - click microphone, turn on "Ask before accessing".
+    - open a new doc, go to Tools menu and select voice typing.
+    - click the microphone icon and start dictation.
+  
 
 
 ## Documents

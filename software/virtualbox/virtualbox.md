@@ -49,7 +49,10 @@ We are going to use VirtualBox.
 ![conf5](5.mouse_cpus.png)
 
 - Maxmize the display memory
-
+  https://thetechterminus.com/how-to-increase-video-memory-vram-in-virtualbox/
+  to increase video memory to 256 MB.  
+  ```vboxmanage modifyvm "CentOS_8.2.2004_VirtualBox_Graphical_LinuxVMImages.com" --vram 256```
+  
 ![conf6](6.display.png)
 
 - Set up network card

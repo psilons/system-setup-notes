@@ -118,7 +118,7 @@ has 72 X 48 X 29 with the price $819. However, the desk back wall interferes wit
 plugs.
 
 ## Suggestion
-Without constraint, the best suggestion is 1 42-inch + 2 27-inch and a larger turned desk (32 X 64)
+Without constraint, the best suggestion is 1 42-inch + 2 27-inch and a larger turned desk (36 X 64)
 because:
 - Size: vertical 27-inch has almost same height as 42-inch. Total horizontal size is about 58 inches.
   It's a little wider than 52 inches. So 3 feet away from the monitor would compensate this(52 inches
@@ -132,7 +132,16 @@ Here is the layout for corner setup to save space.
 ![42 inches](corner.png)
 
 Or use 2 60 X 30 desks, one for monitors and one for keyboard and mouse. In this case, we use more
-space but has more leeway.
+space but has more leeway. The same monitor layout can fit in 59 X 10.6 area. With a little room,
+80 X 36 desks would be good, or 60 X 36 with extra pieces(There are many desks with 72 X 36).
+[here](https://www.marketswest.com/store/pc/L-Shape-Desk-72-quot-x84-quot-with-Glass-Front-Espresso-or-Urban-Walnut-p73303.htm)
+or [build your own](https://www.popsci.com/build-custom-computer-desk/)
+
+36 inch wide desk is better. The shortest desk monitor mount has 7 inch thick(including monitor).
+[Wall mount](https://www.amazon.com/Adjustable-Tilting-Bracket-Plasma-10-26inch/dp/B00BD9JR6K/ref=sr_1_30?dchild=1&keywords=monitor+wall+mount&qid=1608871043&sr=8-30) 
+can save some of this.
+So 36 inch gives us 29 inch view distance. The problem with 36 inch wide is that we can hardly
+reach the end of 36 inches with our arms.
 
 With more monitors, safety concern is on the rise, check 
 [here](https://emfacademy.com/computer-monitor-radiation-everything-you-need-to-know/)
