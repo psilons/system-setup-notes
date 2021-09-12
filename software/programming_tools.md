@@ -40,6 +40,9 @@ Here are some [useful commands](windows_cmd.md).
 [TortoiseGIT](https://tortoisegit.org/download/) is a GUI and shell extension.
 It installs the git command line as well.
 
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
 [WinMerge](https://winmerge.org) is a free good diff tool to compare files and 
 folders locally.
  
