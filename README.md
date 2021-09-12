@@ -27,3 +27,5 @@ Markdown to replace MS Words. [Pandoc](https://pandoc.org/) is a tool to convert
 overlead.com for Latex, and integrated with github.
 
 Search has a delayed indices, need to wait for some time. all docs should be searchable.
+
+Google Docs has dictation: open a doc, go to menu Tools | Voice Typing.
