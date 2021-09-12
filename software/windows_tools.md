@@ -23,6 +23,7 @@ windows shell integration.
 - Meetings: Zoom, VooV Meeting, Wechat
 - FTP: [WinSCP](https://winscp.net/eng/index.php) 
   ![free](free.png) ![portable](portable.png)
+- [qBittorrent](https://www.qbittorrent.org/)
 
 ## Basic Utilities
 - System monitor: [HWiNFO](https://www.hwinfo.com/download/),
@@ -50,6 +51,8 @@ windows shell integration.
   ![free](free.png)  
   Other commercial tools, such as TextPad, UltraEdit, or
   Sublime Text.
+- VirtualBox to install Linux/Mac.
+- [Rainmeter](https://www.rainmeter.net/) is a desktop customization.
 
   
 ## Graphics and Multi-media
@@ -75,6 +78,7 @@ windows shell integration.
   ![free](free.png) ![portable](portable.png)
 - Video players: [VLC](https://www.videolan.org/) and 
   [KMPlayer](http://en.kmplayer.com/). ![free](free.png)
+- Digital pen: GAOMON S620  
 - Text-To-Speech:
   [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
   ![free](free.png) ![portable](portable.png)  
@@ -84,8 +88,8 @@ windows shell integration.
   [here](https://listoffreeware.com/list-of-best-free-text-to-speech-software/).
 - Speech-To-Text:
   Windows 10 has built-in, search speech recognition in control panel.
-  [SpeechNotes](https://speechnotes.co/) is an online tool(follow below google
-  docs instruction to turn on mic).
+  [SpeechNotes](https://speechnotes.co/) is an online tool(follow below Google 
+  Docs instruction to turn on mic).
   [Amazon Transcribe](https://aws.amazon.com/transcribe/) is not free. There are mobile
   apps for this too. See more [here](https://zapier.com/blog/best-text-dictation-software/).
   
@@ -105,7 +109,7 @@ windows shell integration.
 - Mind Mapping: [XMind](https://www.xmind.net/) ![free](free.png). 
   See [this](https://thedigitalprojectmanager.com/mind-mapping-software/) and
   [this](https://zapier.com/blog/best-mind-mapping-software/) for others.
-- Charting: [draw.io for Windows](https://www.draw.io) ![free](free.png) and MS Visio.
+- Diagrams: [draw.io for Windows](https://www.draw.io) ![free](free.png) and MS Visio.
 - PDF viewers: Chrome, [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html).
   ![free](free.png)  
   Others are Adobe Reader, Foxit. Sumatra can read other formats, such as ePub, Mobi, djvu. 
@@ -116,7 +120,8 @@ windows shell integration.
   Unicorn Viewer supports PDF, PDG, djvu, but seems out of date.
 - Document content indexer: [DocFetcher](http://docfetcher.sourceforge.net/en/index.html)
   and [AnyTXT](https://anytxt.net/). ![free](free.png)
-
+- [Typora](https://typora.io/) is a MarkDown editor.
+- Document scanner: OCR
 
 The icons are generated from: 
 https://cooltext.com/Edit-Logo?LogoID=3713219011&3713219011_Font=899
