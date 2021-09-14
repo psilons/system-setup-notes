@@ -9,6 +9,10 @@ Ctrl + Tab - shows running apps.
 
 Ctrl + +/- for window zoom in/out.
 
+Ctrl + Ctrl for dictation (Windows Ctrl = Mac Func)
+
+Alt + Esc for speech(speak the highlighted text)
+
 ```Apple Icon Menu | About This Mac | System Report | Hardware``` to show hardware.
 
 https://www.techradar.com/how-to/how-to-take-a-screenshot-on-a-mac
