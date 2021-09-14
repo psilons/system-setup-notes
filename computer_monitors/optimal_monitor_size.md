@@ -167,3 +167,5 @@ video card, cable, and monitor. Check all hardware and software settings.
 
 Source: https://www.pcmag.com/picks/the-best-gaming-monitors?test_uuid=001OQhoHLBxsrrrMgWU3gQF&test_variant=b
 
+This is another way to setup the monitor, from https://www.makeuseof.com/enable-universal-control-macOS-monterey-beta/
+![wall](monitor_on_the_wall.jpeg)

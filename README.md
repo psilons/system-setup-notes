@@ -27,8 +27,6 @@ overlead.com for Latex, and integrated with github.
 
 Search has a delayed indices, need to wait for some time. all docs should be searchable.
 
-Google Docs has dictation: open a doc, go to menu Tools | Voice Typing.
+Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS has these too.
 
-Cloud drive comparison
 
-![cloud](cloud_drives_comparison.png)
