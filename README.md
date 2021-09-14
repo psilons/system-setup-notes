@@ -31,4 +31,4 @@ Google Docs has dictation: open a doc, go to menu Tools | Voice Typing.
 
 Cloud drive comparison
 
-![cloud](cloud drives comparison.png)
+![cloud](cloud_drives_comparison.png)
