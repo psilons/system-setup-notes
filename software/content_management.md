@@ -22,3 +22,7 @@ We have to separate company-related content from personal content.
 To share
 - Zoom with white board
 - cloud drives 
+
+To download desktop version of OneNote:
+http://www.onenote.com/download/win32/x64/en-us
+C
