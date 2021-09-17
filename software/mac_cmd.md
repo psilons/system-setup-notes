@@ -29,3 +29,16 @@ When a finder window is active, go to menu View | Show path bar. This will show
 the folder path at the bottom of the finder window.
 
 http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html
+
+## Functional Keys
+
+Go to Apple | System Preference | Keyboard
+![keyboard](keyboard_shortcuts.png)
+
+For PC keyboards:
+
+F14/F15 for screen brightness
+F13, not used, remap to screen capture (shift + Cmd + 4)
+F12, not used, remap to screen capture (shift + Cmd + 5)
+F11 Show desktop
+F10, not used, remap to show notification center
