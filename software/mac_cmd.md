@@ -33,6 +33,7 @@ http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.
 ## Functional Keys
 
 Go to Apple | System Preference | Keyboard
+
 ![keyboard](keyboard_shortcuts.png)
 
 For PC keyboards:
