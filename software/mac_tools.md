@@ -22,12 +22,12 @@
 
 
 - MacOS and Windows:
-
+	- [OneNote](https://www.onenote.com/download), this is the desktop version.
 	- [draw.io]() is to draw diagrams.
-
 	- [Typora](https://typora.io/) is a MarkDown editor.
-
 	- [qbittorrent](https://www.qbittorrent.org/)
+	
+	
 
 
 ### These are not on brew:
