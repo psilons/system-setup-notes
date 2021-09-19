@@ -40,6 +40,9 @@ For PC keyboards:
 
 F14/F15 for screen brightness
 F13, not used, remap to screen capture (shift + Cmd + 4)
+
 F12, not used, remap to screen capture (shift + Cmd + 5)
+
 F11 Show desktop
+
 F10, not used, remap to show notification center
