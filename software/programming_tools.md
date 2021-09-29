@@ -13,10 +13,9 @@ and many more. Though I don't know all other tools, I know it takes huge
 effort to build similar tools, say in 10 years. Comparing IDEA 4 with IDEA 2015
 should give you some ideas.
 
-- Fonts: [Google fonts](https://fonts.google.com/),
-  [programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/),
-  [others](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a)
-  
+- Fonts: [programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
+  is a good start. More are [Google fonts](https://fonts.google.com/) and 
+  [others](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a).
 
 ## Database GUI clients
 [DataStrip](https://www.jetbrains.com/datagrip/) is included in the 

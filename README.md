@@ -29,4 +29,6 @@ Search has a delayed indices, need to wait for some time. all docs should be sea
 
 Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS has these too.
 
+## Wallpapers
 
+All wallpapers are from the internet.
