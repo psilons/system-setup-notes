@@ -17,7 +17,7 @@ windows shell integration.
   
 ## Network and Communication
 - Browsers: Chrome, FireFox, Opera  
-  Turn on [topsites](browser_setting.md) on browsers, so we have sites that we
+  Turn on [topsites](browser/browser_setting.md) on browsers, so we have sites that we
   visit on a daily base. This is different from browser history.  
   Add markdown viewer extension to Chrome.
 - Meetings: Zoom, VooV Meeting, Wechat
@@ -99,7 +99,7 @@ windows shell integration.
     - click microphone, turn on "Ask before accessing".
     - open a new doc, go to Tools menu and select voice typing.
     - click the microphone icon and start dictation.
-  
+- Windows subsystem Linux 2
 
 
 ## Documents

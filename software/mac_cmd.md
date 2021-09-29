@@ -19,6 +19,30 @@ https://www.techradar.com/how-to/how-to-take-a-screenshot-on-a-mac
 
 https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/
 
+## Network Commands
+
+https://www.makeuseof.com/how-to-use-terminal-as-network-utility-replacement/
+
+netstat -a
+netstat -I  en0
+netstat -p tcp
+
+ping apple.com
+ping 192.168.1.1 -c 10
+
+nslookup apple.com # resolve IP
+nslookup 17.253.144.10 # resolve domain
+
+traceroute apple.com
+
+whois apple.com # resolve registration
+
+finger <user>
+
+nc -vz 192.168.1.1 80
+nc -vz 192.168.1.1 70-90
+
+
 
 
 ## Useful Tune ups
@@ -46,3 +70,6 @@ F12, not used, remap to screen capture (shift + Cmd + 5)
 F11 Show desktop
 
 F10, not used, remap to show notification center
+
+Terminal Banners:
+https://askubuntu.com/questions/1020692/terminal-splash-screen-with-weather-calendar-time-sysinfo

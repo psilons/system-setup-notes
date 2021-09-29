@@ -169,3 +169,16 @@ Source: https://www.pcmag.com/picks/the-best-gaming-monitors?test_uuid=001OQhoHL
 
 This is another way to setup the monitor, from https://www.makeuseof.com/enable-universal-control-macOS-monterey-beta/
 ![wall](monitor_on_the_wall.jpeg)
+
+Dell [U3219Q](https://www.amazon.com/Dell-32-Inch-LED-Lit-Monitor-U3219Q/dp/B07HDBD9CM)
+is a really good monitor(besides colors):
+- work with MacBooks via one USB-C.
+- built-in dock station for multiple machines with 1 set of keyboard and mouse.
+
+According to this, https://www.dell.com/support/kbdoc/en-us/000131273/using-a-dell-ultrasharp-usb-c-monitor-with-a-mac
+[U4320Q](https://www.amazon.com/dp/B084LB7RN2) does not have KVM.
+
+Hot key for windows: https://www.dell.com/community/Monitors/U3219Q-error-installing-DDM/td-p/7506976,
+there is no Mac version.
+
+https://virtualizationreview.com/articles/2019/06/10/the-dell-ultrasharp-u3219q-monitor.aspx
