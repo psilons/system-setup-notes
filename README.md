@@ -32,3 +32,7 @@ Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS ha
 ## Wallpapers
 
 All wallpapers are from the internet.
+
+https://glaciericons.com/
+
+https://www.remove.bg/t/change-background

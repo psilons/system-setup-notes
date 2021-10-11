@@ -47,12 +47,20 @@ nc -vz 192.168.1.1 70-90
 
 ## Useful Tune ups
 
+To show disk space: disk space: Apple Icon | About this Mac, storage tab.
+
 To show file path
 
 When a finder window is active, go to menu View | Show path bar. This will show 
 the folder path at the bottom of the finder window.
 
 http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html
+
+To show which shell you are using: https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/
+- echo $SHELL
+- ps -o comm=$$
+- echo $0
+
 
 ## Functional Keys
 
