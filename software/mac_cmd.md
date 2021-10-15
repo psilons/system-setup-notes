@@ -42,7 +42,11 @@ finger <user>
 nc -vz 192.168.1.1 80
 nc -vz 192.168.1.1 70-90
 
+To set proxy in the terminal
+export http_proxy=http://proxy.server.com:port
 
+In addition, curl check .curlrc file:
+proxy = yourproxy.com:port
 
 
 ## Useful Tune ups

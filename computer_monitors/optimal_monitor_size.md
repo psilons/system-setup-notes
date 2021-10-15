@@ -178,7 +178,20 @@ is a really good monitor(besides colors):
 According to this, https://www.dell.com/support/kbdoc/en-us/000131273/using-a-dell-ultrasharp-usb-c-monitor-with-a-mac
 [U4320Q](https://www.amazon.com/dp/B084LB7RN2) does not have KVM.
 
-Hot key for windows: https://www.dell.com/community/Monitors/U3219Q-error-installing-DDM/td-p/7506976,
+Hot key for windows: Install DDM - Dell Display Manager  
+https://www.dell.com/community/Monitors/U3219Q-error-installing-DDM/td-p/7506976,
 there is no Mac version.
+
+If you have Dell Display Manager installed, you can try setting up a Windows shortcut to it with a command-line parameter. Assuming the 3014 is your only monitor (or monitor #1):
+
+ddm.exe /1:SetActiveInput DVI1
+
+ddm.exe /1:SetActiveInput HDMI1
+
+ddm.exe /1:SetActiveInput DP1
+
+ddm.exe /1:SetActiveInput DP2
+
+Append an "/exit" if you just want DDM to start, switch inputs, and close.
 
 https://virtualizationreview.com/articles/2019/06/10/the-dell-ultrasharp-u3219q-monitor.aspx
