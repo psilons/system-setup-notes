@@ -39,6 +39,7 @@ Here are some [useful commands](windows_cmd.md).
 [TortoiseGIT](https://tortoisegit.org/download/) is a GUI and shell extension.
 It installs the git command line as well.
 
+[SourceTree](https://www.sourcetreeapp.com/) is another option for Mac and Windows.
 https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 
