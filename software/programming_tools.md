@@ -16,6 +16,12 @@ should give you some ideas.
 - Fonts: [programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
   is a good start. More are [Google fonts](https://fonts.google.com/) and 
   [others](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a).
+  - [Fira Code](https://github.com/tonsky/FiraCode)
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+  - [DejaVu Mono](https://dejavu-fonts.github.io/)
+  - [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
 
 ## Database GUI clients
 [DataStrip](https://www.jetbrains.com/datagrip/) is included in the 
