@@ -85,3 +85,5 @@ F10, not used, remap to show notification center
 
 Terminal Banners:
 https://askubuntu.com/questions/1020692/terminal-splash-screen-with-weather-calendar-time-sysinfo
+
+Terminal Path Opener: https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html

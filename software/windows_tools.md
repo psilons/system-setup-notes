@@ -53,6 +53,7 @@ windows shell integration.
   Sublime Text.
 - VirtualBox to install Linux/Mac.
 - [Rainmeter](https://www.rainmeter.net/) is a desktop customization.
+- [WinDirStat](https://windirstat.net/)
 
   
 ## Graphics and Multi-media
@@ -78,6 +79,7 @@ windows shell integration.
   ![free](free.png) ![portable](portable.png)
 - Video players: [VLC](https://www.videolan.org/) and 
   [KMPlayer](http://en.kmplayer.com/). ![free](free.png)
+- [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - Digital pen: GAOMON S620  
 - Text-To-Speech:
   [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
