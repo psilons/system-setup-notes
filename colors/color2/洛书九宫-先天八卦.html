@@ -1,9 +1,12 @@
 <HTML>
 <HEAD>
+	<meta charset="utf-8"> <!-- These 2 lines are needed for chinese-->
+	<link rel="stylesheet" type="text/css" href='https://fonts.googleapis.com/css?family=Noto Sans SC'/>
     <style>
 	    html, body{
-  background: #c4c9e9
-}
+		    background: #c4c9e9
+			font-family: 'Noto Sans SC', 'Microsoft YaHei', SimHei, SimSun, Inconsolata, Arial, Helvetica, sans-serif;
+		}
 	</style>
 </HEAD>
 <BODY>
@@ -14,9 +17,9 @@ var ctx = canvas.getContext("2d");
 var lastend = 0;
 var data = [45,45,45,45,45,45,45,45];
 var myTotal = 0;
-var myColor = ['#FFFF00', '#00FF00','#00FFFF', '#000000', '#0000FF', '#FF00FF', '#FF0000', '#FFFFFF'];
-var labels = ['110 兌 澤', '010 坎 水', '011 巽 風', 
-              '000 坤 地', '001 艮 山', '101 離 火', '100 震 雷', '111 乾 天'];
+var myColor = ['#FFFFFF', '#00FFFF', '#00FF00', '#0000FF', '#000000', '#FF0000', '#FF00FF', '#FFFF00'];
+var labels = ['111 乾 天', '011 巽 風', '010 坎 水', '001 艮 山',
+              '000 坤 地', '100 震 雷', '101 離 火', '110 兌 澤'];
 
 for(var e = 0; e < data.length; e++)
 {
@@ -48,7 +51,7 @@ for (var i = 0; i < data.length; i++) {
   lastend += Math.PI*2*(data[i]/myTotal);
 }
 	</script>
-	
-	
+
+
 </BODY>
 </HTML>

@@ -1,4 +1,7 @@
-# 2020 Computer
+# WorkStation Hardware
+
+## Requirements
+
 
 Need a computer for programming (including Deep Learning Training on GPU) and 
 non real time gaming occasionally. So this is not a gaming machine, but not 
@@ -28,3 +31,4 @@ Here are the prices for memory and hard drive:
 ![ssd](2020_ssd.png)
 
 
+Windows subsystem Linux 2

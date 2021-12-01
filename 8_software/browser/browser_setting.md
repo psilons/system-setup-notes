@@ -1,5 +1,9 @@
 # Browser Customization
 
+- Browsers: Chrome, FireFox, Opera  
+  Turn on [topsites](browser/browser_setting.md) on browsers, so we have sites that we
+  visit on a daily base. This is different from browser history.  
+  Add markdown viewer extension to Chrome.
 
 ## FireFox
 Go to "Open Menu" on the top right corner in FireFox and select Options.
