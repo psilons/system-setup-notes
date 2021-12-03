@@ -12,13 +12,9 @@ Windows key + E -> windows file explorer
 Windows key + Pause/Break -> system  
 
 
-## System Tools
-- [perfmon](https://www.c-sharpcorner.com/article/how-to-use-perfmon-to-monitor-performance/)
-  is a built-in tool(search for perfmon) for performance monitoring.
-- [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-  is a process monitor from [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/).
-- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-  is another tool from Sysinternals.
+## Windows Commands
+- To add shortcuts to Windows menu, put them in 
+  ```C:\Users\Wonderland\AppData\Roaming\Microsoft\Windows\Start Menu\Programs```
 - Use Settings > Apps > Default apps to change file associations.
 - Windows 10 has built-in tar command. Or we can use powershell to zip/unzip:
   ```
@@ -26,8 +22,6 @@ Windows key + Pause/Break -> system
   
   powershell expand-archive <source.zip> <target dir>
   ```
-- File unlocker: [EmptyLoop's unlocker](http://www.emptyloop.com/unlocker/) 
-  is among [many](https://www.raymond.cc/blog/lockhunter-is-unlocker-alternative-that-works-on-windows-x64/).
 - find windows product key:
   ```
   wmic path softwarelicensingservice get OA3xOriginalProductKey

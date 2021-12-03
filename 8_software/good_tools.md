@@ -1,6 +1,20 @@
 
+## System Tools
+- [perfmon](https://www.c-sharpcorner.com/article/how-to-use-perfmon-to-monitor-performance/)
+  is a built-in tool(search for perfmon) for performance monitoring.
+- [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+  is a process monitor from [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/).
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+  is another tool from Sysinternals.
+- [HWiNFO](https://www.hwinfo.com/download/),
+- [cpu-z](https://www.cpuid.com/softwares/cpu-z.html), both 
+  ![free](free.png) ![portable](portable.png)
+  though windows has System Information(search msinfo32).
+  System Model in msinfo32 shows the model number and System Manufacturer
+  shows the vendor. For example, model is XPS 8920 and vendor is DELL.
+- [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 
-Disk Tools for Windows
+## Disk Tools for Windows
 - Disk clone: [Macrium Reflect](https://www.macrium.com/reflectfree)
   ![free](free.png)
 - Disk partition: [Paragon](https://www.paragon-software.com/free/pm-express/#)
@@ -12,17 +26,8 @@ Disk Tools for Windows
   [Rufus](https://rufus.ie/)
   ![free](free.png) ![portable](portable.png)
 - [WinDirStat](https://windirstat.net/)
-
-System monitor: 
-- [HWiNFO](https://www.hwinfo.com/download/),
-- [cpu-z](https://www.cpuid.com/softwares/cpu-z.html), both 
-  ![free](free.png) ![portable](portable.png)
-  though windows has System Information(search msinfo32).
-  System Model in msinfo32 shows the model number and System Manufacturer
-  shows the vendor. For example, model is XPS 8920 and vendor is DELL.
-
-- [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-
+- File unlocker: [EmptyLoop's unlocker](http://www.emptyloop.com/unlocker/) 
+  is among [many](https://www.raymond.cc/blog/lockhunter-is-unlocker-alternative-that-works-on-windows-x64/).
 
 Antivirus:
 - [Avira](https://www.avira.com) for Windows and Mac.
