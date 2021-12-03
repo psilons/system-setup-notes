@@ -1,4 +1,14 @@
-- Fonts: [programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
+# Fonts
+
+There are many fonts, select several fonts based on well design and personal flavor.
+
+For different purposes, we may use different fonts:
+- Titles(books, articles, chapters, sections, posters, cards)
+- Web based contents
+- Math/Science based contents
+- Programming based
+ 
+[Programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
   is a good start. More are [Google fonts](https://fonts.google.com/) and 
   [others](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a).
   - [Fira Code](https://github.com/tonsky/FiraCode)
@@ -14,3 +24,4 @@ Cursive fonts:
 - https://looka.com/blog/best-cursive-fonts/
 - https://www.thecreativehustler.com/30-best-cursive-fonts/(commercial)
 - https://www.theme-junkie.com/best-script-cursive-fonts/
+

@@ -20,7 +20,7 @@ We have to separate company-related content from personal content.
 - Code/Artifacts:
 	- Git(public, company restricted, or private)
 	
-## Sharing
+## Sharing Across Devices
 To share
 - Zoom with white board
 - cloud drives 
@@ -53,8 +53,8 @@ MarkDown Converters:
 - [This](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/) is a tool to 
 convert excel.
 
-
-Document scanner: OCR
+## Others
+Document scanner: OCR - OneNote can read text from pictures
 
 Windows 10 has built-in, search speech recognition in control panel.
 Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS has these too.

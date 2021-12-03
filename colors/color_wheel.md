@@ -21,14 +21,12 @@ To make distinctions among colors, we choose the following colors:
 - yellow
 - green
 - blue
-- purple
 - pink
 
 Since we use them as font colors in command window/terminals, they should be
 bright against black backgrounds.
 
 [This site](https://graf1x.com/category/color-shades/) provides several shades.
-It misses the purple shades.
 [Wiki Web Color](https://en.wikipedia.org/wiki/Web_colors) and
 [HTML color codes and names](https://www.computerhope.com/htmcolor.htm#color-codes)
 provides extra color spectrum.
