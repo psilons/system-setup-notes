@@ -5,6 +5,8 @@ version has top tabs, while cloud versions don't.
 
 The new version is from: https://www.onenote.com/download.
 
+OneNote can't use custom fonts.
+
 To change page color: 
 
 ![page color](page_color.png)
