@@ -1,11 +1,18 @@
 # Color Wheel
 
-[material.io color palette](https://material.io/archive/guidelines/style/color.html#color-color-palette) 
-is a good start. It has set of icons too:
+## Simple Start
+A simple start is [colors](https://htmlpreview.github.io/?https://github.com/psilons/system-setup-notes/blob/master/colors/colors.html).
+
+Another is [material.io color palette](https://material.io/archive/guidelines/style/color.html#color-color-palette).
+It has set of icons too:
 - https://github.com/google/material-design-icons/
 - https://developers.google.com/fonts/docs/material_icons
 - https://fonts.google.com/icons
 
+Search for best color for reading
+- https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf
+
+## More Details
 The following pictures are sourced from:
 - https://drawpaintacademy.com/artists-color-wheel/
 - https://www.invisionapp.com/inside-design/understanding-color-theory-the-color-wheel-and-finding-complementary-colors/
@@ -50,6 +57,3 @@ provides extra color spectrum.
 to check colors.
 
 Color theme calculator: https://www.sessions.edu/color-calculator/
-
-Search for best color for reading
-- https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf

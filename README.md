@@ -9,7 +9,7 @@ Organized by functionalities.
 4. [Wallpaper images & icons](4_images_icons/images_icons.md)
 
 ## Software
-5. Command line terminals with [colors](colors/color_wheel.md):
+5. Command line terminals with [colors](https://htmlpreview.github.io/?https://github.com/psilons/system-setup-notes/blob/master/colors/colors.html):
      - [Windows command line prompt](5_command_line_terminals/windows/windows_command_prompt.md)
      - [Mac OS terminals](5_command_line_terminals/macos/mac_os_terminal.md)
      - [MobaXterm linux simulator](5_command_line_terminals/mobaxterm/mobaxterm.md)
