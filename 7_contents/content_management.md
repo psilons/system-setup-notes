@@ -1,5 +1,15 @@
 # Content Management
 
+All generated content should be in git!
+
+All references/content should be indexed for search!
+
+Back up to NAS and Cloud periodically.
+
+- Local sandbox for drafts(OneNote) or downloads
+- Local Keeper for re-org, tagging, and grouping
+- Periodic Cloud/NAS Backup
+
 ## Contents
 We have to separate company-related content from personal content.
 
@@ -10,15 +20,15 @@ We have to separate company-related content from personal content.
 	- Company related docs should be kept inside the company.
 	
 - Web bookmarks:
-	- Public URLs can be shared, use raindrop.io or the like.
-	- company restricted URLs should be in Wiki or OneNote with git or cloud backup.
+	- Public URLs can be shared, use **raindrop.io** or the like.
+	- Restricted URLs should be in Wiki or OneNote with git or cloud backup.
 	
 - Notes:
 	- Public notes should initiate in OneNote and move to Git.
 	- Restricted notes should be in OneNote with git or cloud back, or Wiki pages.
 	
 - Code/Artifacts:
-	- Git(public, company restricted, or private)
+	- Git(public, restricted, or private)
 	
 ## Sharing Across Devices
 To share
@@ -54,10 +64,11 @@ MarkDown Converters:
 convert excel.
 
 
-## Others
+### Others
 Document scanner: OCR - OneNote can read text from pictures
 
 Windows 10 has built-in, search speech recognition in control panel.
+
 Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS has these too.
 
 [Google Docs](https://docs.google.com/document) has voice typing with Chrome
@@ -69,3 +80,5 @@ Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS ha
 
 - Text-To-Speech:
   [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
+
+GitHub site or Google site

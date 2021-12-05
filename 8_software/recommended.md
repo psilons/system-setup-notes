@@ -1,22 +1,25 @@
+# Recommended Software
 
+### Software package installer
+- [Homebrew](https://brew.sh/) for Mac.
+- [Scoop](https://scoop.sh/) command line tool for Windows.
+- [Chocolatey](https://chocolatey.org/) a GUI tool for Windows.
 
-[Homebrew](https://brew.sh/) is a software installation manager for Mac.
-
-## Network and Communication
+### Network and Communication
 - Meetings: Zoom, VooV Meeting, Wechat
 - FTP: 
   - [WinSCP](https://winscp.net/eng/index.php) for Windows. ![free](free.png) ![portable](portable.png)
   - [FileZilla](https://filezilla-project.org/) for Windows and Mac.
 - [qBittorrent](https://www.qbittorrent.org/) for Windows and Mac.
 
-Antivirus:
+### Antivirus
 - [Avira](https://www.avira.com) for Windows and Mac.
 
-Zip:
+### Zip
 - [7-Zip](https://www.7-zip.org/) for Windows. Windows 10 has ```tar``` command line built in.
 - [The Unarchiver](https://theunarchiver.com/) for Mac.
 
-Filename Indexer: 
+### Filename Indexer 
 - [Launchy](https://www.launchy.net/) for Windows
 - Mac has SpotLight built in.
 
@@ -63,3 +66,4 @@ Screen capture:
 Screen color picker: 
 - [ColorPic](http://www.iconico.com/colorpic/) for Windows. ![free](free.png)
 - [Just Color Picker](https://annystudio.com/software/colorpicker/) for Windows and Mac. ![free](free.png)
+- Mac has utilities/digital color meter. RGB slider is very helpful to change colors. It can take RGB or HEX input.

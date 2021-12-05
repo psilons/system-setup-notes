@@ -1,5 +1,7 @@
 # Content
 
+
+
 Maturity Curve
 ![maturity curve](maturity_curve.png)
 
@@ -46,3 +48,11 @@ Vue
 ## Mathematics
 
 ## Statistics
+
+## Computer Science
+
+## Others
+- Media(picture, video, music)
+- Sports
+- Life
+- History/Military/Novels
