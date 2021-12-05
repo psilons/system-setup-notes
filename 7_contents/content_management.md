@@ -15,7 +15,7 @@ We have to separate company-related content from personal content.
 	
 - Notes:
 	- Public notes should initiate in OneNote and move to Git.
-	- Company restricted should be in OneNote with git or cloud back, or Wiki pages.
+	- Restricted notes should be in OneNote with git or cloud back, or Wiki pages.
 	
 - Code/Artifacts:
 	- Git(public, company restricted, or private)
@@ -52,6 +52,7 @@ MarkDown Converters:
 - [Pandoc](https://pandoc.org/) is a tool to convert word to md.
 - [This](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/) is a tool to 
 convert excel.
+
 
 ## Others
 Document scanner: OCR - OneNote can read text from pictures

@@ -31,3 +31,5 @@ has only one style.
 - https://www.thecreativehustler.com/30-best-cursive-fonts/(commercial)
 - https://www.theme-junkie.com/best-script-cursive-fonts/
 
+## Customized Fonts
+- Adobe Illustrator手写字体，决绝字体: https://www.toutiao.com/a6839984131288334852/
