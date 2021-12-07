@@ -20,6 +20,8 @@ Organized by functionalities.
        [other good tools](8_software/good_tools.md)
      - [Programming tools](8_software/programming_recommended_tools.md) 
        and [others](8_software/programming_good_tools.md)
+     - https://www.slant.co/
+     - https://alternativeto.net/
 
 ## Documents and Contents
 7. [Contents and documents](7_contents/content_management.md)

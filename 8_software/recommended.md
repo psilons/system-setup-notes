@@ -35,6 +35,9 @@ Text Editor: has syntax highlights, reformat content, handle large files.
 Mind Mapping: 
 - [XMind](https://www.xmind.net/) for Windows and Mac.
 
+Knowledge base:
+- https://obsidian.md/
+
 Diagrams: 
 - [draw.io](https://www.draw.io) for Windows and Mac.
 
@@ -67,3 +70,7 @@ Screen color picker:
 - [ColorPic](http://www.iconico.com/colorpic/) for Windows. ![free](free.png)
 - [Just Color Picker](https://annystudio.com/software/colorpicker/) for Windows and Mac. ![free](free.png)
 - Mac has utilities/digital color meter. RGB slider is very helpful to change colors. It can take RGB or HEX input.
+
+
+- Mac: https://www.makeuseof.com/settings-you-need-to-disable-to-optimize-mac/
+- 

@@ -87,3 +87,7 @@ Terminal Banners:
 https://askubuntu.com/questions/1020692/terminal-splash-screen-with-weather-calendar-time-sysinfo
 
 Terminal Path Opener: https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html
+
+https://www.makeuseof.com/alt-key-on-mac/
+
+https://www.makeuseof.com/how-to-split-a-macos-user-account-in-two/

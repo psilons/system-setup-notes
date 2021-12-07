@@ -16,10 +16,14 @@ good options are:
 - [DejaVu Mono](https://dejavu-fonts.github.io/)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-Other suggestions are 
-[free programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
-and [web dev beyond](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a).
-Download from [Google fonts](https://fonts.google.com/)
+Other suggestions are: 
+- [free programming fonts](https://www.webfx.com/blog/web-design/free-programming-fonts/)
+- [web dev beyond](https://medium.com/web-dev-beyond/best-free-programming-fonts-2020-f243a6b4749a)
+- [Google fonts](https://fonts.google.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/fonts/dejavu-sans)
+- [Chinese Fonts](https://cooltext.com/Fonts-Unicode-Chinese)
+- https://www.howtogeek.com/746976/best-fonts-for-google-docs-documents/
+- A picture based font: [Google Noto Font](https://fonts.google.com/noto)
 
 ## Cursive Fonts
 Mainly for titles, Dancing Script is the only one with all styles. Petit Formal Script

@@ -13,6 +13,14 @@ Search for best color for reading
 - https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf
 
 ## More Details
+
+https://coschedule.com/blog/color-psychology-marketing
+
+Themes:
+- https://coolors.co/palettes/trending
+- HTML Color Picker
+
+
 The following pictures are sourced from:
 - https://drawpaintacademy.com/artists-color-wheel/
 - https://www.invisionapp.com/inside-design/understanding-color-theory-the-color-wheel-and-finding-complementary-colors/

@@ -17,3 +17,6 @@ There are several usage scenarios:
 - Use cloud storage as a backup. If we had a bad local drive, then it's a saver. If we want to rollback to previous version, we can do that too.
 
 Google drive sets all local files as virtual, so we are good for the above 2 requirements.
+
+encryption on cloud:
+https://cryptomator.org/

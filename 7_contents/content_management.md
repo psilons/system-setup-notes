@@ -46,6 +46,7 @@ Search has a delayed indices, need to wait for some time. all docs should be sea
 File content indexer:
 - [DocFetcher](http://docfetcher.sourceforge.net/en/index.html)
 - [AnyTXT](https://anytxt.net/)
+- [FileLocator Pro](https://www.mythicsoft.com/filelocatorpro/information/#features)
 
 ## Document Writers
 
@@ -77,6 +78,8 @@ Google Docs has dictation: open a doc, go to menu Tools | Voice Typing. MacOS ha
 - click microphone, turn on "Ask before accessing".
 - open a new doc, go to Tools menu and select voice typing.
 - click the microphone icon and start dictation.
+
+[语音转文字工具, AI based](https://www.toutiao.com/a6899418344391213580)
 
 - Text-To-Speech:
   [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
