@@ -40,7 +40,7 @@
 - [AVG Antivirus](https://www.avg.com/en-us/free-antivirus-download)
 
 
-## File indexer/searcher: 
+## File indexer/searcher
 - [Launchy](https://www.launchy.net/), search files by file names. ![free](free.png)
 - [Everything](https://www.voidtools.com/),
 - [Wox](https://github.com/Wox-launcher/Wox),
@@ -48,7 +48,18 @@
 - [Listary](https://www.listary.com/),
 - [Executor](http://executor.dk/).
 
-## Tools
+## Readers
+- Calibre for Mobi format
+- MacDjView: http://www.djvu.org/resources/windjview/
+- Foxit
+
+- Text-To-Speech: 
+    - [Natural Readers](https://www.naturalreaders.com/online/) is a simple text speaker.
+    - [Amazon Polly](https://aws.amazon.com/polly/) is not free. See more 
+      [here](https://listoffreeware.com/list-of-best-free-text-to-speech-software/).
+
+
+## Content Writers
 - Text Editors: TextPad, UltraEdit, Sublime Text
 
 - Desktop customizer: [Rainmeter](https://www.rainmeter.net/)
@@ -57,22 +68,13 @@
 
 - [PDFill](http://www.pdfill.com/) for form filling. ![free](free.png)
 
-Readers:
-- Calibre for Mobi format
-- MacDjView: http://www.djvu.org/resources/windjview/
-- Foxit
-
 - Speech-To-Text:
   [SpeechNotes](https://speechnotes.co/) is an online tool(follow below Google 
   Docs instruction to turn on mic).
   [Amazon Transcribe](https://aws.amazon.com/transcribe/) is not free. There are mobile
   apps for this too. See more [here](https://zapier.com/blog/best-text-dictation-software/).
 
-- Text-To-Speech: 
-  [Natural Readers](https://www.naturalreaders.com/online/) is a simple text speaker.
-  [Amazon Polly](https://aws.amazon.com/polly/) is not free. See more 
-  [here](https://listoffreeware.com/list-of-best-free-text-to-speech-software/).
-
+## Screen Related
 - Screen video recording:   
     - https://screenrec.com/screen-recorder/best-free-screen-recording-software
     - https://www.techradar.com/news/the-best-free-screen-recorder
@@ -95,13 +97,12 @@ Readers:
   for others.
 
 - MacOS Only
-    - [KAP](https://getkap.co/)(brew kap) is a screen recorder.
+    - [KAP](https://getkap.co/) (brew kap) is a screen recorder.
     - [GeekTool](https://www.tynsoe.org/geektool/) customizes Mac desktops.
     - [Iina](https://iina.io/) is a media player.
+    - Digital arts: https://www.sketchbook.com/apps 
 
-- Digital arts: https://www.sketchbook.com/apps 
-
-
+## Software repositories
 - https://github.com/jaywcjlove/awesome-mac
 - https://macwk.com/
 - https://www.macbl.com/
