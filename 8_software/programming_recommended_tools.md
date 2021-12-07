@@ -29,7 +29,7 @@ It can compare libs too, but not versions, e.g., JDK 8 and JDK 11.
     - MarkDown
     - Latex
   - Other features:
-    - project/module 2 level management: much neede feature with many down the road consequences.
+    - project/module 2 level management: much needed feature with many down the road consequences.
       Standardized directory structures across languages, src/test/out
     - refactoring, cross references, and global search.
     
