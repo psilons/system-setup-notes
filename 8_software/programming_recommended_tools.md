@@ -34,8 +34,8 @@ It can compare libs too, but not versions, e.g., JDK 8 and JDK 11.
     - refactoring, cross references, and global search.
     
 ## Database GUI clients
-[DataStrip](https://www.jetbrains.com/datagrip/) is included in the 
-Jetbrains Toolbox.  
+- [DataStrip](https://www.jetbrains.com/datagrip/) is included in the Jetbrains Toolbox.
+
 
 JDBC hides the database vendor difference, so these GUIs can deal with many 
 database vendors. For vendor specific, such as stored procedures, we have to

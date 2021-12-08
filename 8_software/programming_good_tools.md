@@ -3,8 +3,10 @@
 ## Database GUI clients
 [DBeaver Community](https://dbeaver.io/) is a free and good tool.  
 
+[Sequel pro](https://www.sequelpro.com/) is free on Mac.
+
 [This review](https://codingsight.com/10-best-mysql-gui-tools/)
-has other tools (not restricted to MySQL), such as Aqua Data Studio and Navicat
+has other tools (not restricted to MySQL), such as Aqua Data Studio and Navicat.
 
 ## Linux Tools
 There are several Linux tools:  

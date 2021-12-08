@@ -4,7 +4,9 @@ https://glaciericons.com/
 
 horse wallpaper: https://wallpaperaccess.com/white-horse
 
-Remove backgroup: https://www.remove.bg/t/change-background
+Remove backgroup: 
+- https://photoscissors.com/editor/1350103849/UgbOzHv9_f
+- https://www.remove.bg/t/change-background
 
 Image optimizer: https://squoosh.app/
 
