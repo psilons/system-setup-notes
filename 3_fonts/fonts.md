@@ -37,3 +37,4 @@ has only one style.
 
 ## Customized Fonts
 - Adobe Illustrator手写字体，决绝字体: https://www.toutiao.com/a6839984131288334852/
+- 毛笔字体: https://www.fonts.net.cn/fonts-zh/tag-maobi-1.html
