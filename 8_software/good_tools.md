@@ -89,7 +89,7 @@
 - Screen GIF recording:   
     - Windows: [this](https://www.acethinker.com/desktop-recorder/gif-screen-recorder.html)
     - [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
-
+    - [gifski](https://apps.apple.com/us/app/gifski/id1351639930) is a video-2-git tool.
 
 - Screen capture: 
   [ShareX](https://getsharex.com/) ![free](free.png)  
