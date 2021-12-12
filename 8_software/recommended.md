@@ -27,7 +27,8 @@
 Text Editor: has syntax highlights, reformat content, handle large files.
 - [Notepad++](https://notepad-plus-plus.org/) for Windows, slow down with file size > 500 MB.  
   To select a color theme and change font, go to menu Settings | Style Configurator and select theme
-  at the top.
+  at the top.  
+  To replace with new lines, use `\n`.
 - [EditPad Lite](https://www.editpadlite.com/) for windows, can handle large files.
 - [BBEdit](https://www.barebones.com/products/bbedit/) for Mac. It can handle large files. 
   To use tab to indent blocks of text,   
