@@ -21,7 +21,10 @@
 - [The Unarchiver](https://theunarchiver.com/) for Mac.
 
 ### Filename Indexer 
-- [Launchy](https://www.launchy.net/) for Windows
+- [Launchy](https://www.launchy.net/) for Windows. If it crushes, check this  
+
+  ![tip](launchy.png) 
+  
 - Mac has SpotLight built in.
 
 Text Editor: has syntax highlights, reformat content, handle large files.
@@ -73,6 +76,11 @@ Screen color picker:
 - [Just Color Picker](https://annystudio.com/software/colorpicker/) for Windows and Mac. ![free](free.png)
 - Mac has utilities/digital color meter. RGB slider is very helpful to change colors. It can take RGB or HEX input.
 
+Video Downloader
+- https://github.com/soimort/you-get
+- `pip install you-get`
+- `you-get -i https://www.youtube.com/watch?v=hyPKp-F1A68`
+- `you-get --itag=136 https://www.youtube.com/watch?v=hyPKp-F1A68`
 
 - Mac: https://www.makeuseof.com/settings-you-need-to-disable-to-optimize-mac/
-- 
+

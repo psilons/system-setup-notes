@@ -41,6 +41,40 @@ Windows key + Pause/Break -> system
   ```
 
 ## Network
+
+### IP tracing
+- `ping <IP> -t`
+Tracert <IP>
+Tracert -h 5 google.com  # limit hop count
+
+Nslookup <IP>
+
+Netstat
+Netstat -n 5 # interval
+
+Arp -a <IP> # get mac address
+
+Route print
+
+Route -f 
+
+Netsh /?
+
+Netsh winsock reset
+
+
+Netsh -c interface dump ><filename>
+### ipconfig
+- `ipconfig`
+- `ifconfig -a` on Linux, ether 00 address is the MAC address
+- `ipconfig/all` on Windows, "Physical Address" is the MAC address
+- 
+- `ipconfig/release`
+- `ipconfig/renew`
+- 
+- `ipconfig/flushdns`
+
+### HTTP
 To check network http proxy
 
 ```netsh winhttp show proxy```

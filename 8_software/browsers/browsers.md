@@ -5,6 +5,15 @@
   visit on a daily base. This is different from browser history.  
   Add markdown viewer extension to Chrome.
 
+## User Data
+
+To change Chrome's bookmark folder, add the following to the shortcut  
+`--user-data-dir="G:\BrowserProfiles\ChromeStable"`
+
+See:
+- https://www.neowin.net/forum/topic/1237576-can-i-change-chromes-bookmarks-location/
+- https://chromium.googlesource.com/chromium/src/+/HEAD/docs/user_data_dir.md
+
 ## FireFox
 Go to "Open Menu" on the top right corner in FireFox and select Options.
 

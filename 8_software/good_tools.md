@@ -73,6 +73,7 @@
   Docs instruction to turn on mic).
   [Amazon Transcribe](https://aws.amazon.com/transcribe/) is not free. There are mobile
   apps for this too. See more [here](https://zapier.com/blog/best-text-dictation-software/).
+- Music Notes: https://musescore.org/en
 
 ## Screen Related
 - Screen video recording:   
@@ -95,12 +96,19 @@
   [ShareX](https://getsharex.com/) ![free](free.png)  
   See [this](https://screenrec.com/screenshot-tool/best-free-screenshot-software/)
   for others.
+  
+  http://blog.bahraniapps.com/gifcam/#download
 
 - MacOS Only
     - [KAP](https://getkap.co/) (brew kap) is a screen recorder.
     - [GeekTool](https://www.tynsoe.org/geektool/) customizes Mac desktops.
     - [Iina](https://iina.io/) is a media player.
     - Digital arts: https://www.sketchbook.com/apps 
+
+## Misc
+
+- https://www.makeuseof.com/tag/4-sites-where-you-can-download-old-pc-games-for-free-nb/
+
 
 ## Software repositories
 - https://github.com/jaywcjlove/awesome-mac

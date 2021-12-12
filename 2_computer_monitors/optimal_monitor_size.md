@@ -195,3 +195,7 @@ ddm.exe /1:SetActiveInput DP2
 Append an "/exit" if you just want DDM to start, switch inputs, and close.
 
 https://virtualizationreview.com/articles/2019/06/10/the-dell-ultrasharp-u3219q-monitor.aspx
+
+To use iMac monitor with macbook: https://support.apple.com/en-us/HT204592. Basically, 
+- use Mini DisplayPort or Thunderbolt cable to connect the two.
+- Press Command + F2 to toggle machines.
