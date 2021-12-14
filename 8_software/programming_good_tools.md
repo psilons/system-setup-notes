@@ -13,6 +13,7 @@ There are several Linux tools:
 - [MobaXterm](https://mobaxterm.mobatek.net/) is a linux interactive GUI. 
   This is used mainly for remote access. The free version can create at most
   10 sessions. Here is the [setup](mobaxterm/mobaxterm.md).
+- [Tabby](https://github.com/Eugeny/tabby) and [XShell](https://www.netsarang.com/en/xshell/)
 - [unxutils](https://anaconda.org/binstar/unxutils/files) is a command line 
   package. These can be used in scripts. Wget is included, but curl is not.
   Windows 10 includes curl(run where curl on command). Otherwise, we can get 

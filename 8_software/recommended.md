@@ -8,6 +8,7 @@
 ### Network and Communication
 - Meetings: Zoom, VooV Meeting, Wechat
     - https://www.digitaltrends.com/computing/best-zoom-keyboard-shortcuts/
+    - Slack shortcuts: https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts
 - FTP: 
   - [WinSCP](https://winscp.net/eng/index.php) for Windows. ![free](free.png) ![portable](portable.png)
   - [FileZilla](https://filezilla-project.org/) for Windows and Mac.

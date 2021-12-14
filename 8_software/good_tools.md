@@ -18,6 +18,8 @@
   shows the vendor. For example, model is XPS 8920 and vendor is DELL.
 - msinfo32: https://support.microsoft.com/en-us/topic/description-of-microsoft-system-information-msinfo32-exe-tool-10d335d8-5834-90b4-8452-42c58e61f9fc
 - [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+- Desktop customizer: [Rainmeter](https://www.rainmeter.net/)
+
 
 ## Disk Tools for Windows
 - Disk clone: [Macrium Reflect](https://www.macrium.com/reflectfree)
@@ -62,9 +64,6 @@
 ## Content Writers
 - Text Editors: TextPad, UltraEdit, Sublime Text
 
-- Desktop customizer: [Rainmeter](https://www.rainmeter.net/)
-
-- Mind Map: https://www.ayoa.com/, this is the best app with all features. But it's commercial.
 
 - [PDFill](http://www.pdfill.com/) for form filling. ![free](free.png)
 
@@ -73,9 +72,14 @@
   Docs instruction to turn on mic).
   [Amazon Transcribe](https://aws.amazon.com/transcribe/) is not free. There are mobile
   apps for this too. See more [here](https://zapier.com/blog/best-text-dictation-software/).
-- Music Notes: https://musescore.org/en
 
-## Screen Related
+
+## Diagrams
+- Mind Map: https://www.ayoa.com/, this is the best app with all features. But it's commercial.
+- (Chinese) https://blog.csdn.net/weixin_48276030/article/details/121880105?utm_medium=distribute.pc_feed_v2.none-task-blog-hot_rank_bottoming-12.pc_personrecdepth_1-utm_source=distribute.pc_feed_v2.none-task-blog-hot_rank_bottoming-12.pc_personrec
+
+
+## Screen Capturing
 - Screen video recording:   
     - https://screenrec.com/screen-recorder/best-free-screen-recording-software
     - https://www.techradar.com/news/the-best-free-screen-recorder
@@ -105,8 +109,10 @@
     - [Iina](https://iina.io/) is a media player.
     - Digital arts: https://www.sketchbook.com/apps 
 
+
 ## Misc
 
+- Music Notes: https://musescore.org/en
 - https://www.makeuseof.com/tag/4-sites-where-you-can-download-old-pc-games-for-free-nb/
 
 
