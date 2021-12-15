@@ -24,6 +24,7 @@ Other suggestions are:
 - [Chinese Fonts](https://cooltext.com/Fonts-Unicode-Chinese)
 - https://www.howtogeek.com/746976/best-fonts-for-google-docs-documents/
 - A picture based font: [Google Noto Font](https://fonts.google.com/noto)
+- https://github.com/jenskutilek/free-fonts
 
 ## Cursive Fonts
 Mainly for titles, Dancing Script is the only one with all styles. Petit Formal Script
@@ -38,3 +39,6 @@ has only one style.
 ## Customized Fonts
 - Adobe Illustrator手写字体，决绝字体: https://www.toutiao.com/a6839984131288334852/
 - 毛笔字体: https://www.fonts.net.cn/fonts-zh/tag-maobi-1.html
+
+## Linux Chinese Font
+- 文泉译微米黑字体: https://github.com/anthonyfok/fonts-wqy-microhei
