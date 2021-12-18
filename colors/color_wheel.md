@@ -19,6 +19,8 @@ https://coschedule.com/blog/color-psychology-marketing
 Themes:
 - https://coolors.co/palettes/trending
 - HTML Color Picker: https://www.htmlcsscolor.com/hex/E67E29
+- https://visme.co/blog/logo-color-schemes/
+- https://ethanschoonover.com/solarized/
 
 
 The following pictures are sourced from:

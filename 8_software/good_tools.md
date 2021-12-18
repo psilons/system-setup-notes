@@ -19,6 +19,7 @@
 - msinfo32: https://support.microsoft.com/en-us/topic/description-of-microsoft-system-information-msinfo32-exe-tool-10d335d8-5834-90b4-8452-42c58e61f9fc
 - [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - Desktop customizer: [Rainmeter](https://www.rainmeter.net/)
+- [WinStep Nexus](http://www.winstep.net/nexus.asp): https://www.makeuseof.com/windows-10-11-mac-style-dock/
 
 
 ## Disk Tools for Windows
