@@ -15,6 +15,8 @@ See:
 - https://chromium.googlesource.com/chromium/src/+/HEAD/docs/user_data_dir.md
 
 ## FireFox
+- Adlbocker extension
+
 Go to "Open Menu" on the top right corner in FireFox and select Options.
 
 ![options](firefox_options.png)
