@@ -9,6 +9,8 @@ This version has top tabs, while cloud versions don't, see
 
 https://docs.microsoft.com/en-us/officeupdates/update-history-office-for-mac?redirectSourcePath=%252fen-us%252farticle%252fUpdate-history-for-Office-2016-for-Mac-700cab62-0d67-4f23-947b-3686cb1a8eb7
 
+https://www.makeuseof.com/tag/programmer-onenote-coding-add-on/
+
 OneNote can't use custom fonts.
 
 To change page color: 
