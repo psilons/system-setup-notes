@@ -35,8 +35,15 @@ Text Editor: has syntax highlights, reformat content, handle large files.
   To replace with new lines, use `\n`.
 - [EditPad Lite](https://www.editpadlite.com/) for windows, can handle large files.
 - [BBEdit](https://www.barebones.com/products/bbedit/) for Mac. It can handle large files. 
-  To use tab to indent blocks of text,   
+  - To use tab to indent blocks of text,   
     ```Preferences > Keyboard > Allow Tab key to indent text blocks```
+  - To format JSON files: add JSON_Format.sh in `~/Library/Application Support/BBEdit/Text Filters`
+    with the following content
+    ```
+    #!/bin/sh
+    
+    python -m json.tool
+    ```
 
 Mind Mapping: 
 - [XMind](https://www.xmind.net/) for Windows and Mac.
