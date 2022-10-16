@@ -67,3 +67,5 @@ provides extra color spectrum.
 to check colors.
 
 Color theme calculator: https://www.sessions.edu/color-calculator/
+
+https://github.com/colour-science/awesome-colour
