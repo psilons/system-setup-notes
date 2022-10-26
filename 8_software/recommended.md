@@ -2,6 +2,7 @@
 
 ### Software package installer
 - [Homebrew](https://brew.sh/) for Mac.
+- [sdkman](https://sdkman.io/) handles older versions better.
 - [Scoop](https://scoop.sh/) command line tool for Windows.
 - [Chocolatey](https://chocolatey.org/) a GUI tool for Windows.
 
